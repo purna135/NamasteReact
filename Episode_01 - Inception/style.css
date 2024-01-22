@@ -1,0 +1,9 @@
+#parent {
+    margin: 10px;
+    background-color: black;
+}
+
+#child {
+    padding: 10px;
+    color: white;
+}
